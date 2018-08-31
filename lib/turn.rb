@@ -48,7 +48,6 @@ def position_taken?(board, index)
   end
 end
 
-<<<<<<< HEAD
 
 def move(board, index, sign="X")
    board[index] = sign
